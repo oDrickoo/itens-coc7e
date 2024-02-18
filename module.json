@@ -24,6 +24,9 @@
         "ASSISTANT": "OWNER"
       },
       "system": "CoC7",
+      "url": "https://github.com/oDrickoo/itens-coc7e",
+      "manifest": "https://raw.githubusercontent.com/oDrickoo/itens-coc7e/main/module.json",  
+      "download": "https://github.com/oDrickoo/itens-coc7e/archive/refs/heads/main.zip",
       "flags": {}
     }
   ]
